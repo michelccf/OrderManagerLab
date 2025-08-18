@@ -53,3 +53,7 @@ C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\obj\Debug\net9.0\refint\ApiGat
 C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\obj\Debug\net9.0\ApiGatway.pdb
 C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\obj\Debug\net9.0\ApiGatway.genruntimeconfig.cache
 C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\obj\Debug\net9.0\ref\ApiGatway.dll
+C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\miche\Projetos\OrderManagerLab\ApiGatway\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

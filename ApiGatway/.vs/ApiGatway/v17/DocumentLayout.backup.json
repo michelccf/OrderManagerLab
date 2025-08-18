@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\constants\\urlapis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:constants\\urlapis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\controllers\\usergatwaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:controllers\\usergatwaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\apigatway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:apigatway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\controllers\\ordergatwaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:controllers\\ordergatwaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T21:50:33.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiGatway.http",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\ApiGatway.http",
+              "RelativeDocumentMoniker": "ApiGatway.http",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\ApiGatway.http",
+              "RelativeToolTip": "ApiGatway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-18T21:31:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "UrlApis.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Constants\\UrlApis.cs",
+              "RelativeDocumentMoniker": "Constants\\UrlApis.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Constants\\UrlApis.cs",
+              "RelativeToolTip": "Constants\\UrlApis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T21:03:55.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:41:42.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:41:08.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserGatwayController.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Controllers\\UserGatwayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserGatwayController.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Controllers\\UserGatwayController.cs",
+              "RelativeToolTip": "Controllers\\UserGatwayController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T15:56:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderGatwayController.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Controllers\\OrderGatwayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderGatwayController.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Controllers\\OrderGatwayController.cs",
+              "RelativeToolTip": "Controllers\\OrderGatwayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T15:42:22.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T15:42:11.731Z",
               "EditorCaption": ""

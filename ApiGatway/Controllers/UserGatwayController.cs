@@ -1,30 +1,45 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using ApiGatway.Interfaces;
+using Microsoft.AspNetCore.Mvc;
 using Resouces.DTOs;
 using Resources.DTOs;
 
 namespace ApiGatway.Controllers
 {
+    [ApiController]
+    [Route("[controller]")]
     public class UserGatwayController : Controller
     {
         private readonly ILogger<UserGatwayController> _logger;
+        private readonly IUserService _userService;
 
-        public UserGatwayController(ILogger<UserGatwayController> logger)
+        
+        public UserGatwayController(ILogger<UserGatwayController> logger, IUserService userService)
         {
             _logger = logger;
+            _userService = userService;
         }
 
-        [HttpPost("Login/")]
-        public async Task<ActionResult<bool>> Login([FromBody] Login loginData)
+        [HttpPost("Login")]
+        public async Task<ActionResult<string>> Login([FromBody] Login loginData)
         {
-            //TODO: Deve chamar api de User para Validar a senha e retornar o jwt.
-            return false;
+            string jwt = await _userService.Login(loginData);
+
+            if(!string.IsNullOrEmpty(jwt))
+                return Ok(jwt);
+
+            return BadRequest();
         }
 
-        [HttpPost("CreateAccount/")]
+        [HttpPost("CreateAccount")]
         public async Task<ActionResult<bool>> CreateAccount([FromBody] UserDto userData)
         {
-            //TODO: Deve chamar api de User para criar o usuario no banco de dados e retornar sucesso ou erro.
-            return false;
+            bool result = await _userService.CreateAccount(userData);
+
+            if (result)
+                return Ok(result);
+
+            return BadRequest();
+            
         }
     }
 }
