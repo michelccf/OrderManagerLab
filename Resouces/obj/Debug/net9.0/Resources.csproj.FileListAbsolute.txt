@@ -1,0 +1,13 @@
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\bin\Debug\net9.0\Resources.deps.json
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\bin\Debug\net9.0\Resources.dll
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\bin\Debug\net9.0\Resources.pdb
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.csproj.AssemblyReference.cache
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.AssemblyInfoInputs.cache
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.AssemblyInfo.cs
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.csproj.CoreCompileInputs.cache
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.sourcelink.json
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.dll
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\refint\Resources.dll
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.pdb
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\ref\Resources.dll

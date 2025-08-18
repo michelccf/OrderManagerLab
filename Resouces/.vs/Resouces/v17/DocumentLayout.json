@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:dtos\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\enums\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:enums\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:dtos\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:dtos\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\configuration\\rabbitmqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resouces.csproj|solutionrelative:configuration\\rabbitmqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\configuration\\rabbitmqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:configuration\\rabbitmqconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,6 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\Login.cs",
+              "RelativeDocumentMoniker": "DTOs\\Login.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\Login.cs",
+              "RelativeToolTip": "DTOs\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:11:14.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderStatusEnum.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Enums\\OrderStatusEnum.cs",
+              "RelativeDocumentMoniker": "Enums\\OrderStatusEnum.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Enums\\OrderStatusEnum.cs",
+              "RelativeToolTip": "Enums\\OrderStatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T03:23:40.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Entities\\User.cs",
@@ -62,12 +92,11 @@
               "RelativeToolTip": "Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:30:34.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:30:34.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Products.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\Products.cs",
               "RelativeDocumentMoniker": "Entities\\Products.cs",
@@ -75,12 +104,11 @@
               "RelativeToolTip": "Entities\\Products.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:30:20.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:30:20.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
@@ -88,12 +116,11 @@
               "RelativeToolTip": "Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:30:16.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:30:16.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Entities\\Order.cs",
@@ -101,12 +128,11 @@
               "RelativeToolTip": "Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:30:10.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:30:10.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
@@ -119,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ProductsDto.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\ProductsDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductsDto.cs",
@@ -127,12 +153,11 @@
               "RelativeToolTip": "DTOs\\ProductsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:29:48.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:29:48.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\OrderItem.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderItem.cs",
@@ -140,12 +165,11 @@
               "RelativeToolTip": "DTOs\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:29:46.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:29:46.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\OrderDto.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
@@ -153,12 +177,11 @@
               "RelativeToolTip": "DTOs\\OrderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:29:44.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T22:29:44.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "RabbitMqConfig.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Configuration\\RabbitMqConfig.cs",
               "RelativeDocumentMoniker": "Configuration\\RabbitMqConfig.cs",
@@ -166,21 +189,7 @@
               "RelativeToolTip": "Configuration\\RabbitMqConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T21:47:26.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T21:41:37.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T21:47:26.086Z"
             }
           ]
         }

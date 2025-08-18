@@ -1023,9 +1023,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Resouces.csproj",
-      "projectName": "Resouces",
-      "projectPath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Resouces.csproj",
+      "projectUniqueName": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Resources.csproj",
+      "projectName": "Resources",
+      "projectPath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Resources.csproj",
       "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\obj\\",
       "projectStyle": "PackageReference",

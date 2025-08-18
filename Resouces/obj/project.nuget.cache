@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3hk4ByxGBM=",
+  "dgSpecHash": "cZ+ZakaLgrw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Resouces.csproj",
+  "projectFilePath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Resources.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.8\\microsoft.extensions.configuration.9.0.8.nupkg.sha512",
     "C:\\Users\\miche\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.8\\microsoft.extensions.configuration.abstractions.9.0.8.nupkg.sha512",
