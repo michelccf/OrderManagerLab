@@ -16,15 +16,16 @@ namespace UserApi.Services
 
         public async Task<UserDto> Login(Login login) 
         {
-            UserDto userDto = new UserDto();
-            userDto.Email = login.Email;
-            userDto.Password = login.Password;
+            UserData result = await _userRepository.Login(login);
 
-            UserData result = await _userRepository.Login(userDto);
+            if (result != null)
+            {
+                UserDto resultUserDto = new UserDto() { Id = result.Id, Alias = result.Alias, Address = result.Address, Email = result.Email, Name = result.Name, Password = result.Password, Telephone = result.Telephone };
 
-            UserDto resultUserDto = new UserDto() {Id = result.Id,Alias = result.Alias, Address = result.Address, Email = result.Email, Name = result.Name, Password = result.Password, Telephone = result.Telephone };
+                return resultUserDto;
+            }
 
-            return resultUserDto;
+            return null;
         }
 
         public async Task<bool> CreateAccount(UserDto user)

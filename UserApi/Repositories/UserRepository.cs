@@ -1,6 +1,7 @@
 ﻿using Resouces.DTOs;
 using Resouces.Entities;
 using Resources.DbContextService;
+using Resources.DTOs;
 using UserApi.Interfaces.Repositories;
 
 namespace UserApi.Repositories
@@ -21,9 +22,9 @@ namespace UserApi.Repositories
             return lines > 0;
         }
 
-        public async Task<UserData> Login(UserDto user)
+        public async Task<UserData> Login(Login login)
         {
-           return _dbContext.UserData.Where(_ => _.Email == user.Email).FirstOrDefault();
+           return _dbContext.UserData.Where(_ => _.Email == login.Email).FirstOrDefault();
         }
     }
 }
