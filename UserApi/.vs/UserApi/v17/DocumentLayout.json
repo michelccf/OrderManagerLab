@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -13,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\userapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:userapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\userapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B9151CD-FEF0-4C66-A69A-52D12225D8F9}|UserApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T02:35:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:19:13.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:18:58.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:01:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T02:00:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-18T21:49:10.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T21:37:18.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "UserApi.http",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\UserApi.http",
               "RelativeDocumentMoniker": "UserApi.http",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\UserApi.http",
               "RelativeToolTip": "UserApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-08-18T21:31:08.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserApiController.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Controllers\\UserApiController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserApiController.cs",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\UserApi\\Controllers\\UserApiController.cs",
               "RelativeToolTip": "Controllers\\UserApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T21:25:25.48Z",
               "EditorCaption": ""

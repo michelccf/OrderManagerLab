@@ -2,5 +2,10 @@
 
 namespace Resouces.DTOs
 {
-    public record OrderDto (long Id, long UserId, OrderStatusEnum Status);
+    public class OrderDto
+    {
+        public long Id { get; set; }
+        public long UserId { get; set; }
+        public OrderStatusEnum Status { get; set; }
+    }
 }

@@ -11,3 +11,5 @@ C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.dll
 C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\refint\Resources.dll
 C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.pdb
 C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\ref\Resources.dll
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\bin\Debug\net9.0\Resources.runtimeconfig.json
+C:\Users\miche\Projetos\OrderManagerLab\Resouces\obj\Debug\net9.0\Resources.genruntimeconfig.cache

@@ -1,6 +1,32 @@
 [
   {
     "ContainingType": "UserApi.Controllers.UserApiController",
+    "Method": "CreateAccount",
+    "RelativePath": "UserApi/CreateAccount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Resouces.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserApi.Controllers.UserApiController",
     "Method": "Login",
     "RelativePath": "UserApi/Login",
     "HttpMethod": "POST",
@@ -15,7 +41,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "Resouces.DTOs.UserDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
