@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\auth\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:auth\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\auth\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|solutionrelative:auth\\jwtauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5754BE1B-7E37-4B5B-BE01-9EB6FA0543CB}|ApiGatway.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\apigatway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-19T03:35:20.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T03:35:20.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "JwtAuth.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Auth\\JwtAuth.cs",
               "RelativeDocumentMoniker": "Auth\\JwtAuth.cs",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Auth\\JwtAuth.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T03:31:22.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T03:31:22.483Z"
             },
             {
               "$type": "Document",
@@ -84,8 +82,7 @@
               "RelativeToolTip": "ApiGatway.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-08-18T21:31:13.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T21:31:13.685Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Constants\\UrlApis.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T21:03:55.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T21:03:55.444Z"
             },
             {
               "$type": "Document",
@@ -110,8 +106,7 @@
               "RelativeToolTip": "Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T20:41:42.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T20:41:42.153Z"
             },
             {
               "$type": "Document",
@@ -121,7 +116,7 @@
               "RelativeDocumentMoniker": "Services\\UserService.cs",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAD4vyoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T20:41:08.344Z",
               "EditorCaption": ""
@@ -134,7 +129,7 @@
               "RelativeDocumentMoniker": "Controllers\\UserGatwayController.cs",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Controllers\\UserGatwayController.cs",
               "RelativeToolTip": "Controllers\\UserGatwayController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T15:56:40.54Z",
               "EditorCaption": ""
@@ -149,18 +144,17 @@
               "RelativeToolTip": "Controllers\\OrderGatwayController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T15:42:22.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T15:42:22.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\ApiGatway\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T15:42:11.731Z",
               "EditorCaption": ""

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|c:\\users\\miche\\projetos\\ordermanagerlab\\resouces\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F028351-B0B6-492C-B784-29EB325DCF76}|Resources.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T19:18:47.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DbContextService.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DbContextService\\DbContextService.cs",
               "RelativeDocumentMoniker": "DbContextService\\DbContextService.cs",
@@ -75,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\Login.cs",
               "RelativeDocumentMoniker": "DTOs\\Login.cs",
@@ -88,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderStatusEnum.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Enums\\OrderStatusEnum.cs",
               "RelativeDocumentMoniker": "Enums\\OrderStatusEnum.cs",
@@ -96,11 +113,12 @@
               "RelativeToolTip": "Enums\\OrderStatusEnum.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T03:23:40.361Z"
+              "WhenOpened": "2025-08-18T03:23:40.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserData.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\UserData.cs",
               "RelativeDocumentMoniker": "Entities\\UserData.cs",
@@ -108,11 +126,12 @@
               "RelativeToolTip": "Entities\\UserData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:30:34.634Z"
+              "WhenOpened": "2025-08-17T22:30:34.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Product.cs",
@@ -125,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Entities\\OrderItem.cs",
@@ -133,11 +152,12 @@
               "RelativeToolTip": "Entities\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:30:16.386Z"
+              "WhenOpened": "2025-08-17T22:30:16.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Entities\\Order.cs",
@@ -145,11 +165,12 @@
               "RelativeToolTip": "Entities\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:30:10.099Z"
+              "WhenOpened": "2025-08-17T22:30:10.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
@@ -162,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductsDto.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\ProductsDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductsDto.cs",
@@ -170,11 +191,12 @@
               "RelativeToolTip": "DTOs\\ProductsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:29:48.093Z"
+              "WhenOpened": "2025-08-17T22:29:48.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\OrderItem.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderItem.cs",
@@ -182,11 +204,12 @@
               "RelativeToolTip": "DTOs\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T22:29:46.47Z"
+              "WhenOpened": "2025-08-17T22:29:46.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\DTOs\\OrderDto.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderDto.cs",
@@ -199,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "RabbitMqConfig.cs",
               "DocumentMoniker": "C:\\Users\\miche\\Projetos\\OrderManagerLab\\Resouces\\Configuration\\RabbitMqConfig.cs",
               "RelativeDocumentMoniker": "Configuration\\RabbitMqConfig.cs",
@@ -207,7 +230,8 @@
               "RelativeToolTip": "Configuration\\RabbitMqConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T21:47:26.086Z"
+              "WhenOpened": "2025-08-17T21:47:26.086Z",
+              "EditorCaption": ""
             }
           ]
         }

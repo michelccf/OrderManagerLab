@@ -26,7 +26,7 @@ namespace Resouces.Extensions
         public static void AddRabbit(this IServiceCollection service, IConfiguration configuration)
         {
             service.Configure<RabbitMqConfig>(configuration.GetSection("RabbitMqSettings"));
-            service.AddSingleton(r => 
+            service.AddSingleton(r =>
             {
                 var config = r.GetRequiredService<IOptions<RabbitMqConfig>>().Value;
                 return new RabbitMQ.Client.ConnectionFactory
@@ -41,10 +41,44 @@ namespace Resouces.Extensions
 
         public static void AddRedis(this IServiceCollection service, IConfiguration configuration)
         {
-            service.AddSingleton<IConnectionMultiplexer>(s => 
-            { 
+            service.AddSingleton<IConnectionMultiplexer>(s =>
+            {
                 string RedisConnection = configuration.GetSection("Redis;Connection").Value;
                 return ConnectionMultiplexer.Connect(RedisConnection);
+            });
+        }
+
+        public static void AddSwaggerWithAuth(this IServiceCollection serivce)
+        {
+            serivce.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new() { Title = "Minha API Gateway", Version = "v1" });
+
+                // Configuração de segurança do JWT
+                c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+                {
+                    Name = "Authorization",
+                    Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer",
+                    BearerFormat = "JWT",
+                    In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+                    Description = "Insira o token JWT no campo abaixo (ex: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...)"
+                });
+
+                c.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
+                {
+                    {
+                        new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+                        {
+                            Reference = new Microsoft.OpenApi.Models.OpenApiReference
+                            {
+                                Type = Microsoft.OpenApi.Models.ReferenceType.SecurityScheme,
+                                Id = "Bearer"
+                            }
+                        },
+                    new string[] {}
+                    }
+                });
             });
         }
     }
