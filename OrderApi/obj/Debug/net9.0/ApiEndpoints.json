@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "OrderApi.Controllers.OrderApiController",
+    "Method": "Order",
+    "RelativePath": "OrderApi/Order",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CartProducts",
+        "Type": "System.Collections.Generic.List\u00601[[Resouces.DTOs.ProductsDto, Resources, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

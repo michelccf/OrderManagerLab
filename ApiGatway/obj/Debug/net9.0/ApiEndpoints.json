@@ -2,11 +2,22 @@
   {
     "ContainingType": "ApiGatway.Controllers.OrderGatwayController",
     "Method": "Order",
-    "RelativePath": "OrderGatway/Order",
+    "RelativePath": "OrderGatway/Order/UserId/{UserId}",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
+      {
+        "Name": "CartProducts",
+        "Type": "System.Collections.Generic.List\u00601[[Resouces.DTOs.ProductsDto, Resources, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": [
       {
         "Type": "System.Boolean",
@@ -61,7 +72,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "Resources.DTOs.Login",
         "MediaTypes": [
           "text/plain",
           "application/json",

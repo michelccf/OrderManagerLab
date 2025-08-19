@@ -1081,7 +1081,8 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.8",
           "Microsoft.Extensions.Http.Polly": "9.0.8",
           "RabbitMQ.Client": "7.1.2",
-          "StackExchange.Redis": "2.8.58"
+          "StackExchange.Redis": "2.8.58",
+          "Swashbuckle.AspNetCore": "9.0.3"
         },
         "compile": {
           "bin/placeholder/Resources.dll": {}

@@ -1,4 +1,4 @@
 ﻿namespace Resouces.DTOs
 {
-    public record ProductsDto (long Id, string Name, int Quantity);
+    public record ProductsDto (long Id, string Name, int Quantity, decimal Price);
 }

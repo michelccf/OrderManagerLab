@@ -5,7 +5,7 @@ namespace ApiGatway.Interfaces
 {
     public interface IUserService
     {
-        Task<string> Login(Login loginData);
+        Task<Login> Login(Login loginData);
         Task<bool> CreateAccount(UserDto userData);
     }
 }

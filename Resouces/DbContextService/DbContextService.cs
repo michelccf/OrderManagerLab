@@ -11,9 +11,9 @@ namespace Resources.DbContextService
     public class DbContextService : DbContext
     {
         public DbSet<UserData> UserData { get; set; }
-        public DbSet<Order> Order { get; set; }
-        public DbSet<OrderItem> OrderItem { get; set; }
-        public DbSet<Product> Product { get; set; }
+        public DbSet<orderdata> Order { get; set; }
+        public DbSet<orderitem> OrderItem { get; set; }
+        public DbSet<product> Product { get; set; }
         public DbContextService(DbContextOptions<DbContextService> options) : base(options) { }
 
 }

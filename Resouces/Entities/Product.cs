@@ -2,10 +2,11 @@
 
 namespace Resouces.Entities
 {
-    public class Product
+    public class product
     {
-        public long Id { get; set; }
-        public string Name { get; set; }
-        public int Quantity { get; set; }
+        public long id { get; set; }
+        public string name { get; set; }
+        public int quantity { get; set; }
+        public decimal price { get; set; }
     }
 }

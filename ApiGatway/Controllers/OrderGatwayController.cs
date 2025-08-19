@@ -1,23 +1,30 @@
+using ApiGatway.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Resouces.DTOs;
+using Resouces.Entities;
 
 namespace ApiGatway.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [Authorize]
     public class OrderGatwayController : ControllerBase
     {
         private readonly ILogger<OrderGatwayController> _logger;
+        private readonly IOrderService _orderService;
 
-        public OrderGatwayController(ILogger<OrderGatwayController> logger)
+        public OrderGatwayController(ILogger<OrderGatwayController> logger, IOrderService orderService)
         {
             _logger = logger;
+            _orderService = orderService;
         } 
 
-        [HttpPost("Order/")]
-        public async Task<ActionResult<bool>> Order()
+        [HttpPost("Order/UserId/{UserId}")]
+        public async Task<ActionResult<bool>> Order(long UserId, [FromBody] List<ProductsDto> CartProducts)
         {
-            //TODO: Serviço de pedidos deve chamar Api de Order para Salvar dados do pedido no banco.
-            return null;
+            bool result = await _orderService.Order(CartProducts, UserId);
+            return result;
         }
     }
 }

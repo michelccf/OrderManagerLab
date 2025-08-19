@@ -1,9 +1,9 @@
 ﻿namespace Resouces.Entities
 {
-    public class OrderItem
+    public class orderitem
     {
-        public long Id { get; set; }
-        public long OrderId { get; set; }
-        public long ProductId { get; set; }
+        public long id { get; set; }
+        public long orderid { get; set; }
+        public long productid { get; set; }
     }
 }

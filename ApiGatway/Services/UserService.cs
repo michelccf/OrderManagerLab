@@ -23,7 +23,7 @@ namespace ApiGatway.Services
             _jwt = jwt;
         }
 
-        public async Task<string> Login(Login loginData)
+        public async Task<Login> Login(Login loginData)
         {
             string body = JsonConvert.SerializeObject(loginData);
             StringContent content = new StringContent(body, Encoding.UTF8, "application/json");
@@ -36,7 +36,12 @@ namespace ApiGatway.Services
                 UserDto user = JsonConvert.DeserializeObject<UserDto>(result);
 
                 if(BCrypt.Net.BCrypt.Verify(loginData.Password, user.Password))
-                    return _jwt.GenerateJwt(user.Id, user.Email);
+                {
+                    loginData.Token = _jwt.GenerateJwt(user.Id, user.Email);
+                    loginData.UserId = user.Id;
+                    return loginData;
+                }
+                     
             }
 
             return null;

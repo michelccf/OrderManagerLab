@@ -24,12 +24,12 @@ namespace ApiGatway.Controllers
         
         [HttpPost("Login")]
         [AllowAnonymous]
-        public async Task<ActionResult<string>> Login([FromBody] Login loginData)
+        public async Task<ActionResult<Login>> Login([FromBody] Login loginData)
         {
-            string jwt = await _userService.Login(loginData);
+            Login result = await _userService.Login(loginData);
 
-            if(!string.IsNullOrEmpty(jwt))
-                return Ok(jwt);
+            if(result != null)
+                return Ok(result);
 
             return BadRequest("Usuário ou senha inválidos");
         }

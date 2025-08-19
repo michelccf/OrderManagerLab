@@ -17,6 +17,7 @@ builder.Services.AddOpenApi();
 builder.Services.AddPolly();
 builder.Services.AddRabbit(builder.Configuration);
 builder.Services.AddTransient<IUserService, UserService>();
+builder.Services.AddTransient<IOrderService, OrderService>();
 
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var secretKey = jwtSettings["SecretKey"];
