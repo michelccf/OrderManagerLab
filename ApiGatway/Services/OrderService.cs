@@ -23,7 +23,7 @@ namespace ApiGatway.Services
         {
             string body = JsonConvert.SerializeObject(CartProducts);
             StringContent content = new StringContent(body, Encoding.UTF8, "application/json");
-            HttpResponseMessage response = await httpClient.PostAsync($"{UrlApis.UserApiUrl}Order", content);
+            HttpResponseMessage response = await httpClient.PostAsync($"{UrlApis.OrderApiUrl}Order/UserId/{UserId}", content);
 
             if (response.IsSuccessStatusCode)
             {

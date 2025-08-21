@@ -6,12 +6,14 @@ using Microsoft.IdentityModel.Tokens;
 using Resouces.Extensions;
 using System.Text;
 
+string apiName = "ApiGatway";
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddSwaggerWithAuth();
+builder.Services.AddSwaggerWithAuth(apiName);
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 builder.Services.AddPolly();

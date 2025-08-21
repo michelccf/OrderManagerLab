@@ -48,7 +48,7 @@ namespace Resouces.Extensions
             });
         }
 
-        public static void AddSwaggerWithAuth(this IServiceCollection serivce)
+        public static void AddSwaggerWithAuth(this IServiceCollection serivce, string apiName)
         {
             serivce.AddSwaggerGen(c =>
             {
@@ -58,7 +58,7 @@ namespace Resouces.Extensions
                 c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
                 {
                     Name = "Authorization",
-                    Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey,
+                    Type = Microsoft.OpenApi.Models.SecuritySchemeType.Http,
                     Scheme = "Bearer",
                     BearerFormat = "JWT",
                     In = Microsoft.OpenApi.Models.ParameterLocation.Header,

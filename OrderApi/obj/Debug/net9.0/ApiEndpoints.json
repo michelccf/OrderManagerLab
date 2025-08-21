@@ -2,11 +2,16 @@
   {
     "ContainingType": "OrderApi.Controllers.OrderApiController",
     "Method": "Order",
-    "RelativePath": "OrderApi/Order",
-    "HttpMethod": "GET",
+    "RelativePath": "OrderApi/Order/UserId/{UserId}",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int64",
+        "IsRequired": true
+      },
       {
         "Name": "CartProducts",
         "Type": "System.Collections.Generic.List\u00601[[Resouces.DTOs.ProductsDto, Resources, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
